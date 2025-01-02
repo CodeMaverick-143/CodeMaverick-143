@@ -39,9 +39,10 @@
 [![Email](https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpit.01.sarang.2005@gmail.com)  
 
 ---
-
 ## 🎯 **Did You Know?**  
 🧩 I designed a **Sudoku solver bot** that cracks puzzles in less than **10 seconds**!  
+👉 [Play with the Sudoku Solver Bot](https://codemaverick-143.github.io/Sudoku/) 🎮
+ 
 
 ---
 
