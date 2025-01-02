@@ -41,7 +41,7 @@
 ---
 ## 🎯 **Did You Know?**  
 🧩 I designed a **Sudoku solver bot** that cracks puzzles in less than **10 seconds**!  
-👉 [Play with the Sudoku Solver Bot](https://codemaverick-143.github.io/Sudoku/) 🎮
+👉 [Play](https://codemaverick-143.github.io/Sukodu/) 🎮
  
 
 ---
