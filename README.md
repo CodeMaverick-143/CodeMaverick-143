@@ -97,11 +97,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeMaverick-143&theme=aura" alt="Repos per Language" width="45%" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaverick-143&theme=aura" alt="Most Commit Language" width="45%"/>
 </div>  
-  <div align="center">
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" /> My Contributions </h2>
-  <img src="https://github.com/CodeMaverick-143/CodeMaverick-143/blob/output/github-contribution-grid-snake.svg" alt="light">
-  <!--img src="https://github.com/Anjaliavv51/Anjaliavv51/blob/output/github-contribution-grid-snake-dark.svg" alt="dark"-->
-  </div>
+  
 ---
 
 🎯 *Let’s collaborate, innovate, and build projects that make a difference! Code is not just a skill—it’s the art of solving problems.* 🚀  
