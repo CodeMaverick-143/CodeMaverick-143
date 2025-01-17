@@ -80,7 +80,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeMaverick-143)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=CodeMaverick-143&theme=chartreuse-dark&hide_border=true&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
