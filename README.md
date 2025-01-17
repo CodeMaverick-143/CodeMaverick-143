@@ -80,9 +80,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaverick-143&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeMaverick-143)](https://git.io/streak-stats)
 
 ---
 
