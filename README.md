@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>Web apps with React, Node.js, MongoDB.<br>NST Software Developer Club projects.<br>👯 I’m looking to collaborate on:<br><br>Open-source web development or AI/ML projects.<br>🤝 I’m looking for help with:<br><br>AI/ML algorithms and web app optimization.<br>🌱 I’m currently learning:<br><br>Advanced AI/ML and new React features.<br>💬 Ask me about:<br><br>Web development, competitive programming, OS basics.<br>⚡ Fun fact:<br><br>I love solving complex problems in web dev and competitive programming!
+🔭 I’m currently working on:<br><br>Web apps with React, Node.js, MongoDB.<br>NST Software Developer Club projects.<br>👯 I’m looking to collaborate<br><br>Open-source web development or AI/ML projects.<br>🤝 I’m looking for help with:<br><br>AI/ML algorithms and web app optimization.<br>🌱 I’m currently learning:<br><br>Advanced AI/ML and new React features.<br>💬 Ask me about:<br><br>Web development, competitive programming, OS basics.<br>⚡ Fun fact:<br><br>I love solving complex problems in web dev and competitive programming!
 
 
 ## 🌐 Socials:
