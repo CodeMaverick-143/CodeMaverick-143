@@ -52,7 +52,8 @@ I love building **web apps**, exploring **AI/ML**, and contributing to **open-so
 ## 📊 GitHub Stats  
 
 ![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeMaverick-143&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaverick-143&theme=dark&hide_border=false&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaverick-143&theme=dark&hide_border=false&layout=compact) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeMaverick-143&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
