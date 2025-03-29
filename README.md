@@ -77,5 +77,9 @@ I love building **web apps**, exploring **AI/ML**, and contributing to **open-so
 [![](https://visitcount.itsvg.in/api?id=CodeMaverick-143&icon=0&color=6)](https://visitcount.itsvg.in)  
 
 ---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CodeMaverick-143/count.svg" />
+</p>
 
 💡 _"Building, learning, and growing—one line of code at a time."_ 🚀
