@@ -41,6 +41,3 @@ I'm a Full-Stack Developer and AI enthusiast, passionate about building innovati
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:nexawebs.tech@gmail.com)
 
 ---
-
-<a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=k8qzs89s942kg2l4fmf87rax1d7g1jsz" border="0" title="counter for website" alt="counter for website"></a>
-
