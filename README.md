@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+%2C+Myself+Arpit+Sarang👋🏻;a+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+%2C+Myself+Arpit+Sarang👋🏻;an+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
 
 I'm a Full-Stack Developer and AI enthusiast, passionate about building innovative solutions that blend creativity with performance. As a B.Tech student in AI & Machine Learning, I'm constantly exploring the intersection of web development and artificial intelligence.
 
