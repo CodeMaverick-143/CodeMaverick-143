@@ -6,7 +6,7 @@ I'm a Full-Stack Developer and AI enthusiast, passionate about building innovati
 *   🌱 I’m exploring advanced React patterns and performance optimization techniques.
 *   👯 I’m open to collaborating on open-source projects related to web development and AI.
 *   💬 Ask me about Full-Stack development, React, Node.js, and building scalable applications.
-*   📫 How to reach me: [arpitsarang2020@gmail.com](mailto:arpitsarang2020@gmail.com)
+*   📫 How to reach me: [GMAIL](mailto:xplnhub@gmail.com)
 
 ### CONNECT WITH ME
 
