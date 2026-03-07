@@ -54,7 +54,7 @@ I'm a Full-Stack Developer and AI enthusiast, passionate about building innovati
 
 ![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeMaverick-143&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaverick-143&layout=compact&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeMaverick-143)](https://git.io/streak-stats)
 ---
 
 ## 📬 Connect With Me
